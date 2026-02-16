@@ -1,0 +1,236 @@
+{
+"core": [
+    {
+      "name": "Krisha Kapadia",
+      "year": "2024-2025",
+      "Team": "Core",
+      "Team_Role": "Chairperson",
+      "Is_Team_Lead":true,
+      "Instagram":"https://www.instagram.com/krisha_2204_/",
+      "Linkedin":"https://www.linkedin.com/in/krishakapadia/",
+      "GitHub":"https://github.com/krishakapadia",
+      "Image_URL":"https://raw.githubusercontent.com/KJSCE-ISTE/Web-Assets-1/refs/heads/main/Teams/2024-2025/KrishaKapadia_Core_CP_2024-2025.jpg"
+    },
+    {
+      "name": "Garv Vyas",
+      "year": "2024-2025",
+      "Team": "Core",
+      "Team_Role": "Vice Chairperson",
+      "Is_Team_Lead":true,
+      "Instagram":"https://www.instagram.com/garvv_07?igsh=MWtucmJnN3I3ZXM5Yw==",
+      "Linkedin":"http://www.linkedin.com/in/garv-vyas-749895258",
+      "GitHub":"https://github.com/Raugaa",
+      "Image_URL":"https://raw.githubusercontent.com/KJSCE-ISTE/Web-Assets-1/refs/heads/main/Teams/2024-2025/GarvVyas_Core_VCP_2024-2025.jpg"
+    },
+    {
+      "name": "Sanskar Lodha",
+      "year": "2024-2025",
+      "Team": "Core",
+      "Team_Role": "Treasurer",
+      "Is_Team_Lead":true,
+      "Instagram":"https://www.instagram.com/sanskar_2508?igsh=MXZxNHA4OTg5bHQ1Ng%3D%3D&utm_source=qr",
+      "Linkedin":"http://www.linkedin.com/in/sanskar-lodha",
+      "GitHub":" ",
+      "Image_URL":"https://raw.githubusercontent.com/KJSCE-ISTE/Web-Assets-1/refs/heads/main/Teams/2024-2025/SanskarLodha_Core_Treasurer_2024-2025.jpg"
+    }
+],
+
+"Operations":[
+    {
+      "name": "Gaurang Patil",
+      "year": "2024-2025",
+      "Team": "Operations",
+      "Team_Role": "Head",
+      "Is_Team_Lead":true,
+      "Instagram":"https://www.instagram.com/patilgaurang9?igsh=bm1zY2ZyMmhsMnRu",
+      "Linkedin":"https://www.linkedin.com/in/gaurangpatil9?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app*",
+      "GitHub":" ",
+      "Image_URL":"https://raw.githubusercontent.com/KJSCE-ISTE/Web-Assets-1/refs/heads/main/Teams/2024-2025/GaurangPatil_Operations_Head_2024-2025.jpg"
+    },
+    {
+      "name": "Aditi Kanagala",
+      "year": "2024-2025",
+      "Team": "Operations",
+      "Team_Role": "Member",
+      "Is_Team_Lead":false,
+      "Instagram":"https://www.instagram.com/aditikanagala_?igsh=MWRyejZ1bTAxNGw3aA%3D%3D&utm_source=qr",
+      "Linkedin":"http://www.linkedin.com/in/aditi-kanagala-262b772a1",
+      "GitHub":" ",
+      "Image_URL":"https://raw.githubusercontent.com/KJSCE-ISTE/Web-Assets-1/refs/heads/main/Teams/2024-2025/AditiKanagala_Operations_Member_2024-2025.jpg"
+    },
+    {
+      "name": "Aditey Kshirsagar",
+      "year": "2024-2025",
+      "Team": "Operations",
+      "Team_Role": "Member",
+      "Is_Team_Lead":false,
+      "Instagram":"https://www.instagram.com/imaditey_19?igsh=bnYzdzhoamNmaWdr&utm_source=qr",
+      "Linkedin":"https://www.linkedin.com/in/aditey-kshirsagar-0b7962307?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app",
+      "GitHub":" ",
+      "Image_URL":"https://raw.githubusercontent.com/KJSCE-ISTE/Web-Assets-1/refs/heads/main/Teams/2024-2025/AditeyKshirsagar_Operations_Member_2024-2025.jpg"
+    },
+    {
+      "name": "Vipul Garg",
+      "year": "2024-2025",
+      "Team": "Operations",
+      "Team_Role": "Member",
+      "Is_Team_Lead":false,
+      "Instagram":"https://www.instagram.com/vipul_garg16?igsh=MWo3YnczOHh1ejl5aQ%3D%3D&utm_source=qr",
+      "Linkedin":"http://linkedin.com/in/vipul-garg-16p",
+      "GitHub":"",
+      "Image_URL":"https://raw.githubusercontent.com/KJSCE-ISTE/Web-Assets-1/refs/heads/main/Teams/2024-2025/VipulGarg_Operations_Member_2024-2025.jpg"
+    },
+    {
+      "name": "Archit Singh",
+      "year": "2024-2025",
+      "Team": "Operations",
+      "Team_Role": "Member",
+      "Is_Team_Lead":false,
+      "Instagram":"https://www.instagram.com/archits_04?igsh=aDViYTZodGhyYWs2",
+      "Linkedin":"http://www.linkedin.com/in/architsingh04",
+      "GitHub":" ",
+      "Image_URL":"https://raw.githubusercontent.com/KJSCE-ISTE/Web-Assets-1/refs/heads/main/Teams/2024-2025/ArchitSingh_Operations_Member_2024-2025.jpg"
+    }
+],
+
+"Web_And_Tech":[
+    {
+      "name": "Mahek Thakkar",
+      "year": "2024-2025",
+      "Team": "Web_And_Tech",
+      "Team_Role": "Head",
+      "Is_Team_Lead":true,
+      "Instagram":"https://www.instagram.com/mahek_thakkar06?igsh=Z3BxeWthbHB4bGJ5",
+      "Linkedin":"https://www.linkedin.com/in/mahek-thakkar-729b91287",
+      "GitHub":"https://github.com/mhk0603",
+      "Image_URL":"https://raw.githubusercontent.com/KJSCE-ISTE/Web-Assets-1/refs/heads/main/Teams/2024-2025/MahekThakkar_WebAndTech_Head_2024-2025.jpg"
+    },
+    {
+      "name": "Dev Baliga",
+      "year": "2024-2025",
+      "Team": "Web_And_Tech",
+      "Team_Role": "Member",
+      "Is_Team_Lead":false,
+      "Instagram":"https://www.instagram.com/devleo_drums_?igsh=MTc4d3M1ZGp4bW0wMw==",
+      "Linkedin":"https://www.linkedin.com/in/dev-baliga-437970283?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app",
+      "GitHub":"",
+      "Image_URL":"https://raw.githubusercontent.com/KJSCE-ISTE/Web-Assets-1/refs/heads/main/Teams/2024-2025/DevBaliga_WebAndTech_Member_2024-2025.jpg"
+    },
+    {
+      "name": "Anamay Narkar",
+      "year": "2024-2025",
+      "Team": "Web_And_Tech",
+      "Team_Role": "Member",
+      "Is_Team_Lead":false,
+      "Instagram":"https://instagram.com/anamay.narkar",
+      "Linkedin":"https://www.linkedin.com/in/anamay-narkar-23754b297?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app",
+      "GitHub":"https://github.com/AnamayNarkar",
+      "Image_URL":"https://raw.githubusercontent.com/KJSCE-ISTE/Web-Assets-1/refs/heads/main/Teams/2024-2025/AnamayNarkar_WebAndTech_Member_2024-2025.jpg"
+    },
+    {
+      "name": "Nitisha Goyal",
+      "year": "2024-2025",
+      "Team": "Web_And_Tech",
+      "Team_Role": "Member",
+      "Is_Team_Lead":false,
+      "Instagram":"https://www.instagram.com/nitisha_goyal_7890?igsh=NXJzMmRpYnMxam5s",
+      "Linkedin":"https://www.linkedin.com/in/nitisha-goyal-40905a285?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app",
+      "GitHub":"",
+      "Image_URL":"https://raw.githubusercontent.com/KJSCE-ISTE/Web-Assets-1/refs/heads/main/Teams/2024-2025/NitishaGoyal_WebAndTech_Member_2024-2025.jpg"
+    },
+    {
+      "name": "Swarni Chouhan",
+      "year": "2024-2025",
+      "Team": "Web_And_Tech",
+      "Team_Role": "Member",
+      "Is_Team_Lead":false,
+      "Instagram":"https://www.instagram.com/swarni_chouhan20?igsh=eHhlMDg4Z2h1bDl4&utm_source=qr",
+      "Linkedin":"https://www.linkedin.com/in/swarni-chouhan-40aa0a31b?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app",
+      "GitHub":" ",
+      "Image_URL":"https://raw.githubusercontent.com/KJSCE-ISTE/Web-Assets-1/refs/heads/main/Teams/2024-2025/SwarniChouhan_WebAndTech_Member_2024-2025.jpg"
+    }
+],
+
+"PR_And_Marketing": [
+    {
+      "name": "Kudrat Verma",
+      "year": "2024-2025",
+      "Team": "PR_And_Marketing",
+      "Team_Role": "Head",
+      "Is_Team_Lead":true,
+      "Instagram":"https://instagram.com/kudrat_verma_?igshid=MjEwN2IyYWYwYw==",
+      "Linkedin":"https://www.linkedin.com/in/kudratverma?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app",
+      "GitHub":" ",
+      "Image_URL":"https://raw.githubusercontent.com/KJSCE-ISTE/Web-Assets-1/refs/heads/main/Teams/2024-2025/KudratVerma_PR_Head_2024-2025.jpg"
+    },
+    {
+      "name": "Nishi Jain",
+      "year": "2024-2025",
+      "Team": "PR_And_Marketing",
+      "Team_Role": "Member",
+      "Is_Team_Lead":false,
+      "Instagram":"http://instagram.com/nishiijain._",
+      "Linkedin":"http://www.linkedin.com/in/nishi-jain-b29124288",
+      "GitHub":" ",
+      "Image_URL":"https://raw.githubusercontent.com/KJSCE-ISTE/Web-Assets-1/refs/heads/main/Teams/2024-2025/NishiJain_PR_Member_2024-2025.jpg"
+    },
+    {
+      "name": "Aryan Sanganti",
+      "year": "2024-2025",
+      "Team": "PR_And_Marketing",
+      "Team_Role": "Member",
+      "Is_Team_Lead":false,
+      "Instagram":"https://www.instagram.com/aryan.s_15?igsh=MTRidG40bjZwd3QzNQ==",
+      "Linkedin":"https://www.linkedin.com/in/aryansanganti?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app",
+      "GitHub":" ",
+      "Image_URL":"https://raw.githubusercontent.com/KJSCE-ISTE/Web-Assets-1/refs/heads/main/Teams/2024-2025/AryanSanganti_PR_Member_2024-2025.jpg"
+    },
+    {
+      "name": "Govind Mishra",
+      "year": "2024-2025",
+      "Team": "PR_And_Marketing",
+      "Team_Role": "Member",
+      "Is_Team_Lead":false,
+      "Instagram":"https://www.instagram.com/govindmishra.2083?igsh=eDJsam45dHU3OW83&utm_source=qr",
+      "Linkedin":" ",
+      "GitHub":" ",
+      "Image_URL":"https://raw.githubusercontent.com/KJSCE-ISTE/Web-Assets-1/refs/heads/main/Teams/2024-2025/GovindMishra_PR_Member_2024-2025.jpg"
+    }
+],
+
+"Social_Media":[
+    {
+      "name": "Tanish Shetty",
+      "year": "2024-2025",
+      "Team": "Social_Media",
+      "Team_Role": "Head",
+      "Is_Team_Lead":true,
+      "Instagram":"https://www.instagram.com/tanish_shetty33?igsh=MTBvZjFhejR4czNmOQ==",
+      "Linkedin":"http://www.linkedin.com/in/tanish-shetty-92b2832a9",
+      "GitHub":"https://github.com/Tanish-shetty",
+      "Image_URL":"https://raw.githubusercontent.com/KJSCE-ISTE/Web-Assets-1/refs/heads/main/Teams/2024-2025/TanishShetty_SocialMedia_Head_2024-2025.jpg"
+    },
+    {
+      "name": "Anushri Bhaskarwar",
+      "year": "2024-2025",
+      "Team": "Social_Media",
+      "Team_Role": "Member",
+      "Is_Team_Lead":false,
+      "Instagram":"https://www.instagram.com/anushriii.b?igsh=MW5zaG92a2d3bHo2cg%3D%3D&utm_source=qr",
+      "Linkedin":"http://linkedin.com/in/anushri-bhaskarwar-b3780a312",
+      "GitHub":" ",
+      "Image_URL":"https://raw.githubusercontent.com/KJSCE-ISTE/Web-Assets-1/refs/heads/main/Teams/2024-2025/AnushriBhaskarwar_SocialMedia_Member_2024-2025.jpg"
+    },
+    {
+      "name": "Ayush More",
+      "year": "2024-2025",
+      "Team": "Social_Media",
+      "Team_Role": "Member",
+      "Is_Team_Lead":false,
+      "Instagram":"https://www.instagram.com/_ayushhmore_/",
+      "Linkedin":"https://www.linkedin.com/in/ayush-more-875172294?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app",
+      "GitHub":" ",
+      "Image_URL":"https://raw.githubusercontent.com/KJSCE-ISTE/Web-Assets-1/refs/heads/main/Teams/2024-2025/AyushMore_SocialMedia_Member_2024-2025.jpg"
+    }
+]
+}
