@@ -1,0 +1,225 @@
+{
+"core": [
+    {
+      "name": "Varad Brid",
+      "year": "2023-2024",
+      "Team": "Core",
+      "Team_Role": "Chairperson",
+      "Is_Team_Lead":true,
+      "Instagram":"https://instagram.com/varad.brid?utm_source=qr&igshid=MzNlNGNkZWQ4Mg==",
+      "Linkedin":"https://www.linkedin.com/in/varad-brid",
+      "GitHub":"",
+      "Image_URL":"https://raw.githubusercontent.com/KJSCE-ISTE/Web-Assets-1/refs/heads/main/Teams/2023-2024/VaradBrid_Core_CP_2023-2024.jpg"
+    },
+    {
+      "name": "Presha Monga",
+      "year": "2023-2024",
+      "Team": "Core",
+      "Team_Role": "Vice Chairperson",
+      "Is_Team_Lead":true,
+      "Instagram":"https://www.instagram.com/its_preshaaaa/",
+      "Linkedin":"https://www.linkedin.com/in/presha-monga-8415a5250/",
+      "GitHub":" ",
+      "Image_URL":"https://raw.githubusercontent.com/KJSCE-ISTE/Web-Assets-1/refs/heads/main/Teams/2023-2024/PreshaMonga_Core_VCP_2023-2024.PNG"
+    },
+    {
+      "name": "Rahul Luthra",
+      "year": "2023-2024",
+      "Team": "Core",
+      "Team_Role": "Treasurer",
+      "Is_Team_Lead":true,
+      "Instagram":"https://instagram.com/rahul__luthra?igshid=OGQ5ZDc2ODk2ZA==",
+      "Linkedin":"https://www.linkedin.com/in/rahulsinghluthra",
+      "GitHub":" ",
+      "Image_URL":"https://raw.githubusercontent.com/KJSCE-ISTE/Web-Assets-1/refs/heads/main/Teams/2023-2024/RahulLuthra_Core_Treasurer_2023-2024.jpeg"
+    }
+],
+
+"Operations": [
+    {
+      "name": "Anshul Singh",
+      "year": "2023-2024",
+      "Team": "Operations",
+      "Team_Role": "Head",
+      "Is_Team_Lead":false,
+      "Instagram":"https://instagram.com/_.anshul._03?utm_source=qr&igshid=MzNlNGNkZWQ4Mg==",
+      "Linkedin":"",
+      "GitHub":" ",
+      "Image_URL":"https://raw.githubusercontent.com/KJSCE-ISTE/Web-Assets-1/refs/heads/main/Teams/2023-2024/AnshulSingh_Operations_Head_2023-2024.jpg"
+    },
+    {
+      "name": "Aryan Shenoy",
+      "year": "2023-2024",
+      "Team": "Operations",
+      "Team_Role": "Member",
+      "Is_Team_Lead":false,
+      "Instagram":"https://instagram.com/shenoyaryann?igshid=MzRlODBiNWFlZA==",
+      "Linkedin":"",
+      "GitHub":" ",
+      "Image_URL":"https://raw.githubusercontent.com/KJSCE-ISTE/Web-Assets-1/refs/heads/main/Teams/2023-2024/AryanShenoy_Operations_Member_2023-2024.jpg"
+    },
+    {
+      "name": "Kshitij Dumbre",
+      "year": "2023-2024",
+      "Team": "Operations",
+      "Team_Role": "Member",
+      "Is_Team_Lead":false,
+      "Instagram":"https://instagram.com/k.x.itij?utm_source=qr&igshid=MzNlNGNkZWQ4Mg%3D%3D",
+      "Linkedin":"https://www.linkedin.com/in/kshitij-dumbre-329367288",
+      "GitHub":" ",
+      "Image_URL":"https://raw.githubusercontent.com/KJSCE-ISTE/Web-Assets-1/refs/heads/main/Teams/2023-2024/KshitijDambre_Operations_Member_2023-2024.jpeg"
+    },
+    {
+      "name": "Akshat Yadav",
+      "year": "2023-2024",
+      "Team": "Operations",
+      "Team_Role": "Member",
+      "Is_Team_Lead":false,
+      "Instagram":"https://instagram.com/akkkshat07?igshid=MzRlODBiNWFlZA==",
+      "Linkedin":"https://www.linkedin.com/in/akkkshat07/",
+      "GitHub":" ",
+      "Image_URL":"https://raw.githubusercontent.com/KJSCE-ISTE/Web-Assets-1/refs/heads/main/Teams/2023-2024/AkshatYadav_Operations_Member_2023-2024.jpg"
+    }
+],
+
+"Web_And_Tech": [
+    {
+      "name": "Shashank Bhanushali",
+      "year": "2023-2024",
+      "Team": "Web_And_Tech",
+      "Team_Role": "Head",
+      "Is_Team_Lead":false,
+      "Instagram":"",
+      "Linkedin":"https://www.linkedin.com/in/shashankbhanushali/",
+      "GitHub":" ",
+      "Image_URL":"https://raw.githubusercontent.com/KJSCE-ISTE/Web-Assets-1/refs/heads/main/Teams/2023-2024/ShashankBhanushali_WebAndTech_Head_2023-2024.jpg"
+    },
+    {
+      "name": "Bhavana Sharma",
+      "year": "2023-2024",
+      "Team": "Web_And_Tech",
+      "Team_Role": "Member",
+      "Is_Team_Lead":false,
+      "Instagram":"https://instagram.com/_bhavana._.sharma_?utm_source=qr&igshid=MzNlNGNkZWQ4Mg%3D%3D",
+      "Linkedin":"https://www.linkedin.com/in/engg-bhavana-sharma",
+      "GitHub":" ",
+      "Image_URL":"https://raw.githubusercontent.com/KJSCE-ISTE/Web-Assets-1/refs/heads/main/Teams/2023-2024/BhavanaSharma_WebAndTech_Member_2023-2024.jpeg"
+    },
+    {
+      "name": "Kaushal Bhadra",
+      "year": "2023-2024",
+      "Team": "Web_And_Tech",
+      "Team_Role": "Member",
+      "Is_Team_Lead":false,
+      "Instagram":"https://www.instagram.com/kaushal.bhadra/",
+      "Linkedin":"https://www.linkedin.com/in/kaushal-b-5a8890254/",
+      "GitHub":" ",
+      "Image_URL":"https://raw.githubusercontent.com/KJSCE-ISTE/Web-Assets-1/refs/heads/main/Teams/2023-2024/KaushalBhadra_WebAndTech_Member_2023-2024.jpeg"
+    },
+    {
+      "name": "Mahek Thakkar",
+      "year": "2023-2024",
+      "Team": "Web_And_Tech",
+      "Team_Role": "Member",
+      "Is_Team_Lead":false,
+      "Instagram":"https://instagram.com/mahek_thakkar06?utm_source=qr&igshid=MzNlNGNkZWQ4Mg%3D%3D",
+      "Linkedin":"https://www.linkedin.com/in/mahek-thakkar-729b91287",
+      "GitHub":"https://github.com/mhk0603",
+      "Image_URL":"https://raw.githubusercontent.com/KJSCE-ISTE/Web-Assets-1/refs/heads/main/Teams/2023-2024/MahekThakkar_WebAndTech_Member_2023-2024.jpg"
+    }
+],
+
+"PR_And_Marketing": [
+    {
+      "name": "Umang Panchal",
+      "year": "2023-2024",
+      "Team": "PR_And_Marketing",
+      "Team_Role": "Head",
+      "Is_Team_Lead":true,
+      "Instagram":"https://instagram.com/umang___panchal___?utm_source=qr&igshid=ZDc4ODBmNjlmNQ==",
+      "Linkedin":"https://www.linkedin.com/in/umang-panchal-586882276",
+      "GitHub":" ",
+      "Image_URL":"https://raw.githubusercontent.com/KJSCE-ISTE/Web-Assets-1/refs/heads/main/Teams/2023-2024/UmangPanchal_PR_Head_2023-2024.jpeg"
+    },
+    {
+      "name": "Krisha Kapadia",
+      "year": "2023-2024",
+      "Team": "PR_And_Marketing",
+      "Team_Role": "Member",
+      "Is_Team_Lead":false,
+      "Instagram":"https://instagram.com/krisha_2204_?igshid=ZmZhODViOGI=",
+      "Linkedin":"https://www.linkedin.com/in/krishakapadia/",
+      "GitHub":"https://github.com/krishakapadia",
+      "Image_URL":"https://raw.githubusercontent.com/KJSCE-ISTE/Web-Assets-1/refs/heads/main/Teams/2023-2024/KrishaKapadia_PR_Member_2023-2024.jpeg"
+    },
+    {
+      "name": "Piyush Lalwani",
+      "year": "2023-2024",
+      "Team": "PR_And_Marketing",
+      "Team_Role": "Member",
+      "Is_Team_Lead":false,
+      "Instagram":"https://www.instagram.com/piyussshh_09/?next=%2F",
+      "Linkedin":"https://www.linkedin.com/in/piyush-lalwani-42a86625a/",
+      "GitHub":" ",
+      "Image_URL":"https://raw.githubusercontent.com/KJSCE-ISTE/Web-Assets-1/refs/heads/main/Teams/2023-2024/PiyushLalwani_PR_Member_2023-2024.jpeg"
+    },
+    {
+      "name": "Vaishnavi Jadhav",
+      "year": "2023-2024",
+      "Team": "PR_And_Marketing",
+      "Team_Role": "Member",
+      "Is_Team_Lead":false,
+      "Instagram":"https://instagram.com/vaishnavijdv?igshid=MmIzYWVlNDQ5Yg==",
+      "Linkedin":"https://www.linkedin.com/in/vaishnavi-jadhav-ab6991258",
+      "GitHub":" ",
+      "Image_URL":"https://raw.githubusercontent.com/KJSCE-ISTE/Web-Assets-1/refs/heads/main/Teams/2023-2024/VaishnaviJadhav_PR_Member_2023-2024.jpeg"
+    }
+],
+
+"Social_Media": [
+    {
+      "name": "Siddharth Patel",
+      "year": "2023-2024",
+      "Team": "Social_media",
+      "Team_Role": "Head",
+      "Is_Team_Lead":true,
+      "Instagram":"https://instagram.com/_siddharth_2504?igshid=OGQ5ZDc2ODk2ZA==",
+      "Linkedin":"https://www.linkedin.com/in/siddharth-patel-51579327a",
+      "GitHub":" ",
+      "Image_URL":"https://raw.githubusercontent.com/KJSCE-ISTE/Web-Assets-1/refs/heads/main/Teams/2023-2024/SiddharthPatel_SocialMedia_Head_2023-2024.jpeg"
+    },
+    {
+      "name": "Ritul Kulkarni",
+      "year": "2023-2024",
+      "Team": "Social_media",
+      "Team_Role": "Member",
+      "Is_Team_Lead":false,
+      "Instagram":"https://www.instagram.com/ritul_2603_/",
+      "Linkedin":"https://www.linkedin.com/in/ritul-kulkarni-15123a256/",
+      "GitHub":" ",
+      "Image_URL":"https://raw.githubusercontent.com/KJSCE-ISTE/Web-Assets-1/refs/heads/main/Teams/2023-2024/RitulKulkarni_SocialMedia_Member_2023-2024.jpeg"
+    },
+    {
+      "name": "Varun Harikrishnan",
+      "year": "2023-2024",
+      "Team": "Social_media",
+      "Team_Role": "Member",
+      "Is_Team_Lead":false,
+      "Instagram":"https://www.instagram.com/hari_varun__2003/",
+      "Linkedin":"https://www.linkedin.com/in/varun-harikrishnan-a3445a27b/",
+      "GitHub":" ",
+      "Image_URL":"https://raw.githubusercontent.com/KJSCE-ISTE/Web-Assets-1/refs/heads/main/Teams/2023-2024/VarunHarikrishnan_SocialMedia_Member_2023-2024.jpeg"
+    },
+    {
+      "name": "Anubhav Kharkar",
+      "year": "2023-2024",
+      "Team": "Social_media",
+      "Team_Role": "Member",
+      "Is_Team_Lead":false,
+      "Instagram":"https://www.instagram.com/anubhavkharkar.30/?hl=en",
+      "Linkedin":"https://www.linkedin.com/in/anubhav-kharkar-49664b1a9/",
+      "GitHub":" ",
+      "Image_URL":"https://raw.githubusercontent.com/KJSCE-ISTE/Web-Assets-1/refs/heads/main/Teams/2023-2024/AnubhavKharkar_SocialMedia_Member_2023-2024.jpg"
+    }
+]
+}
