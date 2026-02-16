@@ -1,0 +1,33 @@
+[
+    {
+      "year": "2022_2023",
+      "event_name": "Seminar on the Cloud Camp: Microsoft Azure",
+      "event_card_description": "An interactive seminar conducted by ISTE-KJSCE on Microsoft Azure, focusing on cloud computing fundamentals and real-world applications.",
+      "event_date": "2022-09-22",
+      "event_pic": "seminar_2022-2023.jpg",
+      "event_markdown": "## Microsoft Azure Seminar\n\nThe members of the Indian Society of Technical Education (ISTE-KJSCE) conducted a seminar on Microsoft Azure on 22nd September 2022. The session was led by Mr. Devansh Shah, a Microsoft Student Learn Ambassador and Microsoft Summer Intern. A student of KJSCE, he has made remarkable progress in Cloud Computing and is passionate about mentoring aspiring software engineers.\n\nThe seminar was conducted in a friendly yet informative manner, creating an interactive environment. Overall, participants found the session highly insightful and fruitful.",
+      "event_url": "https://raw.githubusercontent.com/KJSCE-ISTE/Web-Assets-1/refs/heads/main/events/2022_2023/seminar_2022-2023.jpg"
+    },
+    {
+        "year": "2022-2023",
+        "event_name": "ABHIYANKTRIKI 2022: The Bro Code",
+        "event_card_description":"This was a technical event amidst Abhiyantriki, a coding competition for all the year students and for all branches. The competition which was eligible for beginners as well, involved solving a problem statement using ‘BhaiLang’ which is a toy programming language and then create a flowchart for the given problem. The top three winners were rewarded with prizes worth Rs. 7000. There was enthusiasm in every group to complete the tasks and secure highest points. The event was a success with participants fulfilled with the team management and an informative takeaway.",
+        "event_date" : "18/10/2022",
+        "event_pic": "abhiyantriki_2022-2023.jpg",
+        "event_markdown" : "## ABHIYANKTRIKI 2020: The Bro Code\n\n**ABHIYANKTRIKI 2022: The Bro Code** was a technical coding event conducted as part of **Abhiyantriki**. The competition was open to students from all years and branches, including beginners.\n\nParticipants were required to solve problem statements using **BhaiLang**, a toy programming language, and create a flowchart for the given problem. This format encouraged logical thinking and problem-solving skills.\n\nThe top three winners were awarded prizes worth ₹7000. The event witnessed great enthusiasm among participants, with teams striving to secure the highest points. Overall, the event was successfully conducted, leaving participants satisfied with the team management and gaining valuable technical insights.",
+        "event_url": "https://raw.githubusercontent.com/KJSCE-ISTE/Web-Assets-1/refs/heads/main/events/2022_2023/abhiyantriki_2022-2023.jpg"
+      
+      },
+      {
+        "year": "2022-2023",
+        "event_name": "Prakalpa 2022-2023",
+        "event_card_description": "A national-level flagship event conducted by ISTE-KJSCE on 13th April 2023, featuring research paper presentations and working model project competitions based on present-day technologies.",
+        "event_date": "13/04/2023",
+        "event_pic": "prakalpa_2022-2023.png",
+        "event_markdown": "## TECHNOVALLEY \n\nThe members of The Indian Society of Technical Education (ISTE-KJSCE) conducted a national-level flagship event on research paper presentation and Working Model Project Competition on 13th April 2023.\n\nThe competition was based on multiple themes which are present-day technologies. The judges of the competition were well-renowned experts in the field of technology. There was a total of 10 registrations of groups for the technical paper presentation and 32 registrations for the working model project competition.\n\nThe participants included SVU as well as non-SVU students. The guests present for the event were our respected principal, all department HODs, the Vice Principal, the Associate Dean, the Dean, and the controller of the examination.\n\nAll the participants were given a token of appreciation through participation certificates and the winners received cash prizes as well. This event was successfully completed with an interactive environment between the students and the judges. Overall, the participants found it highly fruitful.",
+        "event_url": "https://raw.githubusercontent.com/KJSCE-ISTE/Web-Assets-1/refs/heads/main/events/2022_2023/prakalpa_2022-2023.png"
+      }
+
+
+  ]
+  
