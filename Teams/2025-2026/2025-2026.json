@@ -1,0 +1,270 @@
+{
+  "core": [
+    {
+      "name": "Tanish Shetty",
+      "year": "2025-2026",
+      "Team": "Core",
+      "Team_Role": "Chairperson",
+      "Is_Team_Lead":true,
+      "Instagram":"https://www.instagram.com/tanish_shetty33?igsh=MTBvZjFhejR4czNmOQ==",
+      "Linkedin":"http://www.linkedin.com/in/tanish-shetty-92b2832a9",
+      "GitHub":"https://github.com/Tanish-shetty",
+      "Image_URL":"https://raw.githubusercontent.com/KJSCE-ISTE/Web-Assets-1/refs/heads/main/Teams/2025-2026/Tanish_Core_CP_2025-2026.png"
+    },
+    {
+      "name": "Aditi Kanagala",
+      "year": "2025-2026",
+      "Team": "Core",
+      "Team_Role": "Vice Chairperson",
+      "Is_Team_Lead":true,
+      "Instagram":"https://www.instagram.com/aditikanagala_?igsh=MWRyejZ1bTAxNGw3aA%3D%3D&utm_source=qr",
+      "Linkedin":"http://www.linkedin.com/in/aditi-kanagala-262b772a1",
+      "GitHub":" ",
+      "Image_URL":"https://raw.githubusercontent.com/KJSCE-ISTE/Web-Assets-1/refs/heads/main/Teams/2025-2026/Aditi_Core_VCP_2025-2026.png" 
+    },  
+      {
+      "name": "Manav Parekh",
+      "year": "2025-2026",
+      "Team": "Core",
+      "Team_Role": "Treasurer",
+      "Is_Team_Lead":true,
+      "Instagram":"https://www.instagram.com/manav_0613/",
+      "Linkedin":" ",
+      "GitHub":" ",
+      "Image_URL":"https://raw.githubusercontent.com/KJSCE-ISTE/Web-Assets-1/refs/heads/main/Teams/2025-2026/Manav_Core_Treasurer_2025-2026.png" 
+    }
+  ],
+
+  "Operations": [
+    {
+      "name": "Aditey Kshirsagar",
+      "year": "2025-2026",
+      "Team": "Operations",
+      "Team_Role": "Head",
+      "Is_Team_Lead":true,
+      "Instagram":"https://www.instagram.com/imaditey_19?igsh=bnYzdzhoamNmaWdr&utm_source=qr",
+      "Linkedin":"https://www.linkedin.com/in/aditey-kshirsagar-0b7962307?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app",
+      "GitHub":" ",
+      "Image_URL":"https://raw.githubusercontent.com/KJSCE-ISTE/Web-Assets-1/refs/heads/main/Teams/2025-2026/Aditey_Operations_Head_2025-2026.png" 
+    },
+        {
+      "name": "Aarohi",
+      "year": "2025-2026",
+      "Team": "Operations",
+      "Team_Role": "Member",
+      "Is_Team_Lead":false,
+      "Instagram":"",
+      "Linkedin":" ",
+      "GitHub":" ",
+      "Image_URL":"https://raw.githubusercontent.com/KJSCE-ISTE/Web-Assets-1/refs/heads/main/Teams/2025-2026/Aarohi_Operations_Member_2025-2026.jpg"
+    },  
+      {
+      "name": "Manaal",
+      "year": "2025-2026",
+      "Team": "Operations",
+      "Team_Role": "Member",
+      "Is_Team_Lead":false,
+      "Instagram":"https://www.instagram.com/manaalshah0306/",
+      "Linkedin":" ",
+      "GitHub":" ",
+      "Image_URL":"https://raw.githubusercontent.com/KJSCE-ISTE/Web-Assets-1/refs/heads/main/Teams/2025-2026/Manaal_Operations_Member_2025-2026.png" 
+    }, 
+       {
+      "name": "Param",
+      "year": "2025-2026",
+      "Team": "Operations",
+      "Team_Role": "Member",
+      "Is_Team_Lead":false,
+      "Instagram":"https://www.instagram.com/param.js/",
+      "Linkedin":" ",
+      "GitHub":" ",
+      "Image_URL":"https://raw.githubusercontent.com/KJSCE-ISTE/Web-Assets-1/refs/heads/main/Teams/2025-2026/Param_Operations_Member_2025-2026.png" 
+    },
+     {
+      "name": "Shaunak",
+      "year": "2025-2026",
+      "Team": "Operations",
+      "Team_Role": "Member",
+      "Is_Team_Lead":false,
+      "Instagram":"",
+      "Linkedin":" ",
+      "GitHub":" ",
+      "Image_URL":"https://raw.githubusercontent.com/KJSCE-ISTE/Web-Assets-1/refs/heads/main/Teams/2025-2026/Shaunak_Operations_Member_2025-2026.png"  
+    }  
+       ],
+
+
+    "Web_And_Tech": [
+      {
+      "name": "Anamay Narkar",
+      "year": "2025-2026",
+      "Team": "Web_And_Tech",
+      "Team_Role": "Head",
+      "Is_Team_Lead":true,
+      "Instagram":"https://instagram.com/anamay.narkar",
+      "Linkedin":"https://www.linkedin.com/in/anamay-narkar-23754b297?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app",
+      "GitHub":"https://github.com/AnamayNarkar",
+      "Image_URL":"https://raw.githubusercontent.com/KJSCE-ISTE/Web-Assets-1/refs/heads/main/Teams/2025-2026/Anamay_WebAndTech_Head_2025-2026.png"  
+    },  
+      {
+      "name": "Atharva",
+      "year": "2025-2026",
+      "Team": "Web_And_Tech",
+      "Team_Role": "Member",
+      "Is_Team_Lead":false,
+      "Instagram":"https://www.instagram.com/atharvapandey0706/",
+      "Linkedin":" ",
+      "GitHub":"https://github.com/Atharva44-Tech",
+      "Image_URL":"https://raw.githubusercontent.com/KJSCE-ISTE/Web-Assets-1/refs/heads/main/Teams/2025-2026/Atharva_WebAndTech_Member_2025-2026.png"  
+    },  
+      {
+      "name": "Bhavya",
+      "year": "2025-2026",
+      "Team": "Web_And_Tech",
+      "Team_Role": "Member",
+      "Is_Team_Lead":false,
+      "Instagram":"",
+      "Linkedin":" ",
+      "GitHub":"https://github.com/BhavyaShah0209",
+      "Image_URL":"https://raw.githubusercontent.com/KJSCE-ISTE/Web-Assets-1/refs/heads/main/Teams/2025-2026/Bhavya_WebAndTech_Member_2025-2026.png"  
+    },  
+      {
+      "name": "Harsh",
+      "year": "2025-2026",
+      "Team": "Web_And_Tech",
+      "Team_Role": "Member",
+      "Is_Team_Lead":false,
+      "Instagram":"",
+      "Linkedin":" ",
+      "GitHub":"https://github.com/Harsh0604-2006",
+      "Image_URL":"https://raw.githubusercontent.com/KJSCE-ISTE/Web-Assets-1/refs/heads/main/Teams/2025-2026/Harsh_WebAndTech_Member_2025-2026.png"  
+    },  
+      {
+      "name": "Varun",
+      "year": "2025-2026",
+      "Team": "Web_And_Tech",
+      "Team_Role": "Member",
+      "Is_Team_Lead":false,
+      "Instagram":"https://www.instagram.com/varunnair29/",
+      "Linkedin":" ",
+      "GitHub":"https://github.com/Varun2976",
+      "Image_URL":"https://raw.githubusercontent.com/KJSCE-ISTE/Web-Assets-1/refs/heads/main/Teams/2025-2026/Varun_WebAndTech_Member_2025-2026.png"  
+    }
+  ],
+  "Creative": [
+      {
+      "name": "Aaryan Sharma",
+      "year": "2025-2026",
+      "Team": "Creative",
+      "Team_Role": "Head",
+      "Is_Team_Lead":true,
+      "Instagram":"https://www.instagram.com/aaryansharma2512/",
+      "Linkedin":" ",
+      "GitHub":"https://github.com/Aaryan-Sharma-5",
+      "Image_URL":"https://raw.githubusercontent.com/KJSCE-ISTE/Web-Assets-1/refs/heads/main/Teams/2025-2026/Aaryan_Creative_Head_2025-2026.png"  
+    },  
+      {
+      "name": "Aadit",
+      "year": "2025-2026",
+      "Team": "Creative",
+      "Team_Role": "Member",
+      "Is_Team_Lead":false,
+      "Instagram":"",
+      "Linkedin":" ",
+      "GitHub":" ",
+      "Image_URL":"https://raw.githubusercontent.com/KJSCE-ISTE/Web-Assets-1/refs/heads/main/Teams/2025-2026/Aadit_Creative_Member_2025-2026.png"  
+    },  
+      {
+      "name": "Bhumika",
+      "year": "2025-2026",
+      "Team": "Creative",
+      "Team_Role": "Member",
+      "Is_Team_Lead":false,
+      "Instagram":"",
+      "Linkedin":" ",
+      "GitHub":" ",
+      "Image_URL":"https://raw.githubusercontent.com/KJSCE-ISTE/Web-Assets-1/refs/heads/main/Teams/2025-2026/Bhumika_Creative_Member_2025-2026.png"  
+    },  
+      {
+      "name": "Jay",
+      "year": "2025-2026",
+      "Team": "Creative",
+      "Team_Role": "Member",
+      "Is_Team_Lead":false,
+      "Instagram":"https://www.instagram.com/jayvispute06/",
+      "Linkedin":" ",
+      "GitHub":" ",
+      "Image_URL":"https://raw.githubusercontent.com/KJSCE-ISTE/Web-Assets-1/refs/heads/main/Teams/2025-2026/Jay_Creative_Member_2025-2026.png"  
+    },  
+      {
+      "name": "Siddhi",
+      "year": "2025-2026",
+      "Team": "Creative",
+      "Team_Role": "Member",
+      "Is_Team_Lead":false,
+      "Instagram":"",
+      "Linkedin":" ",
+      "GitHub":" ",
+      "Image_URL":"https://raw.githubusercontent.com/KJSCE-ISTE/Web-Assets-1/refs/heads/main/Teams/2025-2026/Siddhi_Creative_Member_2025-2026.png"  
+    }
+  ],
+
+  "PR": [
+      {
+      "name": "Dhruv",
+      "year": "2025-2026",
+      "Team": "PR",
+      "Team_Role": "Head",
+      "Is_Team_Lead":true,
+      "Instagram":"https://www.instagram.com/dhruv.sokiya/",
+      "Linkedin":" ",
+      "GitHub":" ",
+      "Image_URL":"https://raw.githubusercontent.com/KJSCE-ISTE/Web-Assets-1/refs/heads/main/Teams/2025-2026/Dhruv_PR_Head_2025-2026.png"  
+    },  
+      {
+      "name": "Navya",
+      "year": "2025-2026",
+      "Team": "PR",
+      "Team_Role": "Member",
+      "Is_Team_Lead":false,
+      "Instagram":"https://www.instagram.com/mathurnavya._/",
+      "Linkedin":" ",
+      "GitHub":" ",
+      "Image_URL":"https://raw.githubusercontent.com/KJSCE-ISTE/Web-Assets-1/refs/heads/main/Teams/2025-2026/Navya_PR_Member_2025-2026.png"  
+    },  
+      {
+      "name": "Nidhi",
+      "year": "2025-2026",
+      "Team": "PR",
+      "Team_Role": "Member",
+      "Is_Team_Lead":false,
+      "Instagram":"https://www.instagram.com/nidhi_rasalkar/",
+      "Linkedin":" ",
+      "GitHub":" ",
+      "Image_URL":"https://raw.githubusercontent.com/KJSCE-ISTE/Web-Assets-1/refs/heads/main/Teams/2025-2026/Nidhi_PR_Member_2025-2026.png"  
+    },  
+      {
+      "name": "Prasen",
+      "year": "2025-2026",
+      "Team": "PR",
+      "Team_Role": "Member",
+      "Is_Team_Lead":false,
+      "Instagram":"",
+      "Linkedin":" ",
+      "GitHub":" ",
+      "Image_URL":"https://raw.githubusercontent.com/KJSCE-ISTE/Web-Assets-1/refs/heads/main/Teams/2025-2026/Prasen_PR_Member_2025-2026.png"  
+    },  
+      {
+      "name": "Rishabh",
+      "year": "2025-2026",
+      "Team": "PR",
+      "Team_Role": "Member",
+      "Is_Team_Lead":false,
+      "Instagram":"https://www.instagram.com/rishabh.bohra_/",
+      "Linkedin":" ",
+      "GitHub":" ",
+      "Image_URL":"https://raw.githubusercontent.com/KJSCE-ISTE/Web-Assets-1/refs/heads/main/Teams/2025-2026/Rishabh_PR_Member_2025-2026.png"  
+    } 
+  ]
+
+}
