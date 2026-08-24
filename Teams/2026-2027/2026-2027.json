@@ -1,0 +1,246 @@
+{
+  "core": [
+    {
+      "name": "Shounak Dutta",
+      "year": "2026-2027",
+      "Team": "Core",
+      "Team_Role": "Chairperson",
+      "Is_Team_Lead":true,
+      "Instagram":"https://www.instagram.com/theduttashounak?igsh=MTVzNTQ1Yms1ZmlsZw==",
+      "Linkedin":"https://www.linkedin.com/in/shounak-d-3b500b214/",
+      "GitHub":"https://github.com/sudoDreamer",
+      "Image_URL":"https://raw.githubusercontent.com/KJSCE-ISTE/Web-Assets-1/main/Teams/2026-2027/Shounak_Chairperson_2026-2027.jpg"
+    },
+    {
+      "name": "Aarohi Paranjape",
+      "year": "2026-2027",
+      "Team": "Core",
+      "Team_Role": "Vice Chairperson",
+      "Is_Team_Lead":true,
+      "Instagram":"https://www.instagram.com/aarohhhii_?igsh=MThzbGVicDM5N2Vqbw==",
+      "Linkedin":"https://www.linkedin.com/in/aarohi-paranjape/ ",
+      "GitHub":"https://github.com/Aarohi17 ",
+      "Image_URL":"https://raw.githubusercontent.com/KJSCE-ISTE/Web-Assets-1/main/Teams/2026-2027/Aarohi_VC_2026-2027.jpg" 
+    },  
+      {
+      "name": "Arham Jain",
+      "year": "2026-2027",
+      "Team": "Core",
+      "Team_Role": "Treasurer",
+      "Is_Team_Lead":true,
+      "Instagram":"https://www.instagram.com/arham.jainnn?igsh=bmJnbDk3cGtiM29l",
+      "Linkedin":" ",
+      "GitHub":" ",
+      "Image_URL":"https://raw.githubusercontent.com/KJSCE-ISTE/Web-Assets-1/main/Teams/2026-2027/Arham_SecretaryTreasurer_2026-2027.jpg" 
+    }
+  ],
+
+  "Operations": [
+    {
+      "name": "Aditya Jha",
+      "year": "2026-2027",
+      "Team": "Operations",
+      "Team_Role": "Head",
+      "Is_Team_Lead":true,
+      "Instagram":"",
+
+      "Linkedin":"http://www.linkedin.com/in/aditya-jhaaj",
+       "GitHub":"https://github.com/Adityaj45",
+
+"Image_URL":"https://raw.githubusercontent.com/KJSCE-ISTE/Web-Assets-1/main/Teams/2026-2027/Aditya_OperationsHead_2026-2027.jpg"
+    },
+        {
+      "name": "Aarush",
+      "year": "2026-2027",
+      "Team": "Operations",
+      "Team_Role": "Member",
+      "Is_Team_Lead":false,
+      "Instagram":"",
+      "Linkedin":"https://www.linkedin.com/in/aarush-verma-3537b5382?utm_source=share_via&utm_content=profile&utm_medium=member_android",
+
+      "GitHub":"https://github.com/AarushVerma07",
+      "Image_URL":"https://raw.githubusercontent.com/KJSCE-ISTE/Web-Assets-1/main/Teams/2026-2027/Aarush_OperationsTeam_2026-2027.jpg"
+
+    },  
+      {
+      "name": "Tanisha",
+      "year": "2026-2027",
+      "Team": "Operations",
+      "Team_Role": "Member",
+      "Is_Team_Lead":false,
+      "Instagram":"",
+      "Linkedin":"https://www.linkedin.com/in/tanisha-wani-921a10385/",
+      "GitHub":" ",
+       "Image_URL":"https://raw.githubusercontent.com/KJSCE-ISTE/Web-Assets-1/main/Teams/2026-2027/Tanisha_OperationsTeam_2026-2027.jpg" 
+    }, 
+       {
+      "name": "Mrunal",
+      "year": "2026-2027",
+      "Team": "Operations",
+      "Team_Role": "Member",
+      "Is_Team_Lead":false,
+      "Instagram":"",
+      "Linkedin":"https://www.linkedin.com/in/mrunal-deshpande-2065993b2?utm_source=share_via&utm_content=profile&utm_medium=member_android",
+      "GitHub":"",
+      "Image_URL":""
+    }
+      
+       ],
+
+
+    "Web_And_Tech": [
+      {
+      "name": "Richa Handa",
+      "year": "2026-2027",
+      "Team": "Web_And_Tech",
+      "Team_Role": "Head",
+      "Is_Team_Lead":true,
+      "Instagram":"",
+
+      "Linkedin":"https://www.linkedin.com/in/richa-handa-994497349/",
+       "GitHub":"",
+      "Image_URL":"https://raw.githubusercontent.com/KJSCE-ISTE/Web-Assets-1/main/Teams/2026-2027/Richa_WebAndTechHead_2026-2027.jpg"  
+    },  
+      {
+      "name": "Rishim",
+      "year": "2026-2027",
+      "Team": "Web_And_Tech",
+      "Team_Role": "Member",
+      "Is_Team_Lead":false,
+      "Instagram":"https://www.instagram.com/rishim9307?igsh=MTNjejlneGtreTQ1NA%3D%3D&utm_source=qr",
+      "Linkedin":" ",
+      "GitHub":"https://github.com/Rishim-Sharma",
+      "Image_URL":"https://raw.githubusercontent.com/KJSCE-ISTE/Web-Assets-1/main/Teams/2026-2027/Rishim_WebAndTechTeam_2026-2027.jpg"  
+    },  
+      {
+      "name": "Risheek",
+      "year": "2026-2027",
+      "Team": "Web_And_Tech",
+      "Team_Role": "Member",
+      "Is_Team_Lead":false,
+      "Instagram":"",
+      "Linkedin":"https://www.linkedin.com/in/risheek-b-7544ag/",
+      "GitHub":"https://github.com/rishrek",
+      "Image_URL":"https://raw.githubusercontent.com/KJSCE-ISTE/Web-Assets-1/main/Teams/2026-2027/Risheek_WebAndTechTeam_2026-2027.jpg"  
+    },  
+      {
+      "name": "Aarya",
+      "year": "2026-2027",
+      "Team": "Web_And_Tech",
+      "Team_Role": "Member",
+      "Is_Team_Lead":false,
+      "Instagram":"https://www.instagram.com/the_wacky_imperio?igsh=MWZ6cjA3dWMxZXk2bQ==",
+     "Linkedin":"https://www.linkedin.com/in/aarya-p-0260b8178?utm_source=share_via&utm_content=profile&utm_medium=member_android"
+,
+      "GitHub":"https://github.com/AaryaP2025",
+      "Image_URL":"https://raw.githubusercontent.com/KJSCE-ISTE/Web-Assets-1/main/Teams/2026-2027/Aarya_WebAndTechTeam_2026-2027.jpg"  
+    },  
+      {
+      "name": "Jaskaran",
+      "year": "2026-2027",
+      "Team": "Web_And_Tech",
+      "Team_Role": "Member",
+      "Is_Team_Lead":false,
+      "Instagram":"",
+      "Linkedin":"https://www.linkedin.com/in/jaskaran-singh-sethi-0425b5411/",
+      "GitHub":"https://github.com/Jassi-codes",
+      "Image_URL":"https://raw.githubusercontent.com/KJSCE-ISTE/Web-Assets-1/main/Teams/2026-2027/Jaskaran_WebAndTechTeam_2026-2027.jpg"  
+    }
+  ],
+  "Creative": [
+      {
+      "name": "Molaika Dhiraj",
+      "year": "2026-2027",
+      "Team": "Creative",
+      "Team_Role": "Head",
+      "Is_Team_Lead":true,
+      "Instagram":"",
+      "Linkedin":"https://www.linkedin.com/in/molaika-dhiraj/",
+      "GitHub":"https://github.com/Molaika18",
+      "Image_URL":"https://raw.githubusercontent.com/KJSCE-ISTE/Web-Assets-1/main/Teams/2026-2027/Molaika_CreativeHead_2026-2027.jpg"  
+    },  
+      {
+      "name": "Sahil",
+      "year": "2026-2027",
+      "Team": "Creative",
+      "Team_Role": "Member",
+      "Is_Team_Lead":false,
+      "Instagram":"",
+      "Linkedin":"www.linkedin.com/in/sahil-bhere-58b170364 ",
+      "GitHub":"https://github.com/bsahil-09 ",
+      "Image_URL":"https://raw.githubusercontent.com/KJSCE-ISTE/Web-Assets-1/main/Teams/2026-2027/Sahil_CreativeTeam_2026-2027.jpg"  
+    },  
+      {
+      "name": "Aayush",
+      "year": "2026-2027",
+      "Team": "Creative",
+      "Team_Role": "Member",
+      "Is_Team_Lead":false,
+      "Instagram":"",
+      "Linkedin":"https://www.linkedin.com/in/aayush-shendarkar ",
+      "GitHub":"",
+      "Image_URL":"https://raw.githubusercontent.com/KJSCE-ISTE/Web-Assets-1/main/Teams/2026-2027/Aayush_CreativeTeam_2026-2027.jpg"  
+    },  
+      {
+      "name": "Shloka",
+      "year": "2026-2027",
+      "Team": "Creative",
+      "Team_Role": "Member",
+      "Is_Team_Lead":false,
+      "Instagram":"",
+      "Linkedin":"Shloka Naik | LinkedIn ",
+      "GitHub":"",
+      "Image_URL":"https://raw.githubusercontent.com/KJSCE-ISTE/Web-Assets-1/main/Teams/2026-2027/Shloka_CreativeTeam_2026-2027.jpg"  
+    }  
+       ],
+
+  "PR & MARKETING": [
+      {
+      "name": "Rugveda Belekar",
+      "year": "2026-2027",
+      "Team": "PR",
+      "Team_Role": "Head",
+      "Is_Team_Lead":true,
+      "Instagram":"",
+      "Linkedin":"https://www.linkedin.com/in/rugveda-belekar-711bb0320/ ",
+      "GitHub":"",
+      "Image_URL":"https://raw.githubusercontent.com/KJSCE-ISTE/Web-Assets-1/main/Teams/2026-2027/Rugveda_PR_MarketingHead_2026-2027.jpg"  
+    },  
+      {
+      "name": "Shriya",
+      "year": "2026-2027",
+      "Team": "PR",
+      "Team_Role": "Member",
+      "Is_Team_Lead":false,
+      "Instagram":"",
+      "Linkedin":"https://www.linkedin.com/in/shriya-patel-70a5a1411 ",
+      "GitHub":"",
+   "Image_URL":"https://raw.githubusercontent.com/KJSCE-ISTE/Web-Assets-1/main/Teams/2026-2027/Shriya_PR_Marketing_2026-2027.jpg"  
+    },  
+      {
+      "name": "Tanishka",
+      "year": "2026-2027",
+      "Team": "PR",
+      "Team_Role": "Member",
+      "Is_Team_Lead":false,
+      "Instagram":"",
+      "Linkedin":"https://www.linkedin.com/in/tanishka-kakde-674175300 ",
+      "GitHub":" ",
+      "Image_URL":"https://raw.githubusercontent.com/KJSCE-ISTE/Web-Assets-1/main/Teams/2026-2027/Tanishka_PR_Marketing_2026-2027.jpg"
+ 
+    },  
+      {
+      "name": "Digvijay",
+      "year": "2026-2027",
+      "Team": "PR",
+      "Team_Role": "Member",
+      "Is_Team_Lead":false,
+      "Instagram":"",
+      "Linkedin":"https://linkedin.com/in/digvijaydhamane ",
+      "GitHub":"https://github.com/digvijayd-art ",
+      "Image_URL":"https://raw.githubusercontent.com/KJSCE-ISTE/Web-Assets-1/main/Teams/2026-2027/Digvijay_PR_MarketingTeam_2026-2027.jpg"  
+    }
+  ]
+
+}
+
